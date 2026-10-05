@@ -1,8 +1,4 @@
-
-Este é um schedule interno rodando em produção, que atualiza automaticamente uma planilha no google sheets com gspread, com o resultado
-de uma consulta no banco de dados Oracle.
-
-A interface gráfica para monitoramento com cronometro e gráfico de execuções foi criada em Streamlit
+A interface gráfica para monitoramento com cronometro e gráfico de execuções foi criada em Streamlit.
 
 ##Como configurar google cloud API
 
