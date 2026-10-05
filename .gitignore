@@ -1,0 +1,9 @@
+oracle
+venv
+.env
+credentials.json
+lodshet.tar
+token.json
+assets/LOGOGOD.png
+secrets/git_token.txt
+secrets/query1.sql

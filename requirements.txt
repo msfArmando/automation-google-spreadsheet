@@ -1,0 +1,8 @@
+dotenv
+oracledb
+pyarrow
+pandas
+streamlit
+plotly
+gspread
+pyodbc

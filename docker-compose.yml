@@ -1,0 +1,14 @@
+services:
+  app:
+    image: sheets-vendas-automation:1.0
+    ports:
+      - "8531:8531"
+    environment:
+      - driver=${DRIVER}
+      - host=${HOST}
+      - port=${PORT}
+      - DB_PASSWORD=${DB_PASSWORD}
+      - service=${SERVICE}
+      - UID=${UID}
+      
+    restart: unless-stopped
